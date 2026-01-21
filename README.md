@@ -13,8 +13,8 @@ the-big-list 是一个全面的企业清单项目，专注于收集和整理 IT 
 
 ## 城市覆盖
 - **一线城市**：北京、上海、广州、深圳、杭州
-- **新一线城市**：南京、西安、苏州、无锡、常州
-- **其他城市**：昆明、沈阳、哈尔滨、拉萨、香港、澳门
+- **其他城市（仅ai/cloud行业）**：昆明、沈阳、哈尔滨
+- **特别行政区（仅blockchain/cloud）**：香港
 
 ## 行业覆盖
 - **人工智能**：机器学习、深度学习、计算机视觉、自然语言处理、智能语音、机器人等
@@ -51,16 +51,10 @@ list/
 - [ai-shenzhen.md](list/ai-shenzhen.md) - 深圳人工智能企业清单
 - [ai-hangzhou.md](list/ai-hangzhou.md) - 杭州人工智能企业清单
 - [ai-nanjing.md](list/ai-nanjing.md) - 南京人工智能企业清单
-- [ai-xian.md](list/ai-xian.md) - 西安人工智能企业清单
-- [ai-suzhou.md](list/ai-suzhou.md) - 苏州人工智能企业清单
-- [ai-wuxi.md](list/ai-wuxi.md) - 无锡人工智能企业清单
-- [ai-changzhou.md](list/ai-changzhou.md) - 常州人工智能企业清单
+- [ai-xian.md](list/ai-xian.md) - 西安人工智能与航空航天企业清单
 - [ai-kunming.md](list/ai-kunming.md) - 昆明人工智能企业清单
 - [ai-shenyang.md](list/ai-shenyang.md) - 沈阳人工智能企业清单
 - [ai-harbin.md](list/ai-harbin.md) - 哈尔滨人工智能企业清单
-- [ai-lhasa.md](list/ai-lhasa.md) - 拉萨人工智能企业清单
-- [ai-hongkong.md](list/ai-hongkong.md) - 香港人工智能企业清单
-- [ai-macau.md](list/ai-macau.md) - 澳门人工智能企业清单
 
 ### 大数据行业
 - [bigdata-beijing.md](list/bigdata-beijing.md) - 北京大数据企业清单
@@ -68,17 +62,6 @@ list/
 - [bigdata-guangzhou.md](list/bigdata-guangzhou.md) - 广州大数据企业清单
 - [bigdata-shenzhen.md](list/bigdata-shenzhen.md) - 深圳大数据企业清单
 - [bigdata-hangzhou.md](list/bigdata-hangzhou.md) - 杭州大数据企业清单
-- [bigdata-nanjing.md](list/bigdata-nanjing.md) - 南京大数据企业清单
-- [bigdata-xian.md](list/bigdata-xian.md) - 西安大数据企业清单
-- [bigdata-suzhou.md](list/bigdata-suzhou.md) - 苏州大数据企业清单
-- [bigdata-wuxi.md](list/bigdata-wuxi.md) - 无锡大数据企业清单
-- [bigdata-changzhou.md](list/bigdata-changzhou.md) - 常州大数据企业清单
-- [bigdata-kunming.md](list/bigdata-kunming.md) - 昆明大数据企业清单
-- [bigdata-shenyang.md](list/bigdata-shenyang.md) - 沈阳大数据企业清单
-- [bigdata-harbin.md](list/bigdata-harbin.md) - 哈尔滨大数据企业清单
-- [bigdata-lhasa.md](list/bigdata-lhasa.md) - 拉萨大数据企业清单
-- [bigdata-hongkong.md](list/bigdata-hongkong.md) - 香港大数据企业清单
-- [bigdata-macau.md](list/bigdata-macau.md) - 澳门大数据企业清单
 
 ### 区块链行业
 - [blockchain-beijing.md](list/blockchain-beijing.md) - 北京区块链企业清单
@@ -86,17 +69,7 @@ list/
 - [blockchain-guangzhou.md](list/blockchain-guangzhou.md) - 广州区块链企业清单
 - [blockchain-shenzhen.md](list/blockchain-shenzhen.md) - 深圳区块链企业清单
 - [blockchain-hangzhou.md](list/blockchain-hangzhou.md) - 杭州区块链企业清单
-- [blockchain-nanjing.md](list/blockchain-nanjing.md) - 南京区块链企业清单
-- [blockchain-xian.md](list/blockchain-xian.md) - 西安区块链企业清单
-- [blockchain-suzhou.md](list/blockchain-suzhou.md) - 苏州区块链企业清单
-- [blockchain-wuxi.md](list/blockchain-wuxi.md) - 无锡区块链企业清单
-- [blockchain-changzhou.md](list/blockchain-changzhou.md) - 常州区块链企业清单
-- [blockchain-kunming.md](list/blockchain-kunming.md) - 昆明区块链企业清单
-- [blockchain-shenyang.md](list/blockchain-shenyang.md) - 沈阳区块链企业清单
-- [blockchain-harbin.md](list/blockchain-harbin.md) - 哈尔滨区块链企业清单
-- [blockchain-lhasa.md](list/blockchain-lhasa.md) - 拉萨区块链企业清单
 - [blockchain-hongkong.md](list/blockchain-hongkong.md) - 香港区块链企业清单
-- [blockchain-macau.md](list/blockchain-macau.md) - 澳门区块链企业清单
 
 ### 物联网行业
 - [iot-beijing.md](list/iot-beijing.md) - 北京物联网企业清单
@@ -104,17 +77,6 @@ list/
 - [iot-guangzhou.md](list/iot-guangzhou.md) - 广州物联网企业清单
 - [iot-shenzhen.md](list/iot-shenzhen.md) - 深圳物联网企业清单
 - [iot-hangzhou.md](list/iot-hangzhou.md) - 杭州物联网企业清单
-- [iot-nanjing.md](list/iot-nanjing.md) - 南京物联网企业清单
-- [iot-xian.md](list/iot-xian.md) - 西安物联网企业清单
-- [iot-suzhou.md](list/iot-suzhou.md) - 苏州物联网企业清单
-- [iot-wuxi.md](list/iot-wuxi.md) - 无锡物联网企业清单
-- [iot-changzhou.md](list/iot-changzhou.md) - 常州物联网企业清单
-- [iot-kunming.md](list/iot-kunming.md) - 昆明物联网企业清单
-- [iot-shenyang.md](list/iot-shenyang.md) - 沈阳物联网企业清单
-- [iot-harbin.md](list/iot-harbin.md) - 哈尔滨物联网企业清单
-- [iot-lhasa.md](list/iot-lhasa.md) - 拉萨物联网企业清单
-- [iot-hongkong.md](list/iot-hongkong.md) - 香港物联网企业清单
-- [iot-macau.md](list/iot-macau.md) - 澳门物联网企业清单
 
 ### 智能制造行业
 - [smart-manufacturing-beijing.md](list/smart-manufacturing-beijing.md) - 北京智能制造企业清单
@@ -122,17 +84,6 @@ list/
 - [smart-manufacturing-guangzhou.md](list/smart-manufacturing-guangzhou.md) - 广州智能制造企业清单
 - [smart-manufacturing-shenzhen.md](list/smart-manufacturing-shenzhen.md) - 深圳智能制造企业清单
 - [smart-manufacturing-hangzhou.md](list/smart-manufacturing-hangzhou.md) - 杭州智能制造企业清单
-- [smart-manufacturing-nanjing.md](list/smart-manufacturing-nanjing.md) - 南京智能制造企业清单
-- [smart-manufacturing-xian.md](list/smart-manufacturing-xian.md) - 西安智能制造企业清单
-- [smart-manufacturing-suzhou.md](list/smart-manufacturing-suzhou.md) - 苏州智能制造企业清单
-- [smart-manufacturing-wuxi.md](list/smart-manufacturing-wuxi.md) - 无锡智能制造企业清单
-- [smart-manufacturing-changzhou.md](list/smart-manufacturing-changzhou.md) - 常州智能制造企业清单
-- [smart-manufacturing-kunming.md](list/smart-manufacturing-kunming.md) - 昆明智能制造企业清单
-- [smart-manufacturing-shenyang.md](list/smart-manufacturing-shenyang.md) - 沈阳智能制造企业清单
-- [smart-manufacturing-harbin.md](list/smart-manufacturing-harbin.md) - 哈尔滨智能制造企业清单
-- [smart-manufacturing-lhasa.md](list/smart-manufacturing-lhasa.md) - 拉萨智能制造企业清单
-- [smart-manufacturing-hongkong.md](list/smart-manufacturing-hongkong.md) - 香港智能制造企业清单
-- [smart-manufacturing-macau.md](list/smart-manufacturing-macau.md) - 澳门智能制造企业清单
 
 ### 新能源行业
 - [new-energy-beijing.md](list/new-energy-beijing.md) - 北京新能源企业清单
@@ -140,17 +91,6 @@ list/
 - [new-energy-guangzhou.md](list/new-energy-guangzhou.md) - 广州新能源企业清单
 - [new-energy-shenzhen.md](list/new-energy-shenzhen.md) - 深圳新能源企业清单
 - [new-energy-hangzhou.md](list/new-energy-hangzhou.md) - 杭州新能源企业清单
-- [new-energy-nanjing.md](list/new-energy-nanjing.md) - 南京新能源企业清单
-- [new-energy-xian.md](list/new-energy-xian.md) - 西安新能源企业清单
-- [new-energy-suzhou.md](list/new-energy-suzhou.md) - 苏州新能源企业清单
-- [new-energy-wuxi.md](list/new-energy-wuxi.md) - 无锡新能源企业清单
-- [new-energy-changzhou.md](list/new-energy-changzhou.md) - 常州新能源企业清单
-- [new-energy-kunming.md](list/new-energy-kunming.md) - 昆明新能源企业清单
-- [new-energy-shenyang.md](list/new-energy-shenyang.md) - 沈阳新能源企业清单
-- [new-energy-harbin.md](list/new-energy-harbin.md) - 哈尔滨新能源企业清单
-- [new-energy-lhasa.md](list/new-energy-lhasa.md) - 拉萨新能源企业清单
-- [new-energy-hongkong.md](list/new-energy-hongkong.md) - 香港新能源企业清单
-- [new-energy-macau.md](list/new-energy-macau.md) - 澳门新能源企业清单
 
 ### 新材料行业
 - [new-materials-beijing.md](list/new-materials-beijing.md) - 北京新材料企业清单
@@ -158,17 +98,6 @@ list/
 - [new-materials-guangzhou.md](list/new-materials-guangzhou.md) - 广州新材料企业清单
 - [new-materials-shenzhen.md](list/new-materials-shenzhen.md) - 深圳新材料企业清单
 - [new-materials-hangzhou.md](list/new-materials-hangzhou.md) - 杭州新材料企业清单
-- [new-materials-nanjing.md](list/new-materials-nanjing.md) - 南京新材料企业清单
-- [new-materials-xian.md](list/new-materials-xian.md) - 西安新材料企业清单
-- [new-materials-suzhou.md](list/new-materials-suzhou.md) - 苏州新材料企业清单
-- [new-materials-wuxi.md](list/new-materials-wuxi.md) - 无锡新材料企业清单
-- [new-materials-changzhou.md](list/new-materials-changzhou.md) - 常州新材料企业清单
-- [new-materials-kunming.md](list/new-materials-kunming.md) - 昆明新材料企业清单
-- [new-materials-shenyang.md](list/new-materials-shenyang.md) - 沈阳新材料企业清单
-- [new-materials-harbin.md](list/new-materials-harbin.md) - 哈尔滨新材料企业清单
-- [new-materials-lhasa.md](list/new-materials-lhasa.md) - 拉萨新材料企业清单
-- [new-materials-hongkong.md](list/new-materials-hongkong.md) - 香港新材料企业清单
-- [new-materials-macau.md](list/new-materials-macau.md) - 澳门新材料企业清单
 
 ### 生物技术行业
 - [biotech-beijing.md](list/biotech-beijing.md) - 北京生物技术企业清单
@@ -176,17 +105,7 @@ list/
 - [biotech-guangzhou.md](list/biotech-guangzhou.md) - 广州生物技术企业清单
 - [biotech-shenzhen.md](list/biotech-shenzhen.md) - 深圳生物技术企业清单
 - [biotech-hangzhou.md](list/biotech-hangzhou.md) - 杭州生物技术企业清单
-- [biotech-nanjing.md](list/biotech-nanjing.md) - 南京生物技术企业清单
-- [biotech-xian.md](list/biotech-xian.md) - 西安生物技术企业清单
 - [biotech-suzhou.md](list/biotech-suzhou.md) - 苏州生物技术企业清单
-- [biotech-wuxi.md](list/biotech-wuxi.md) - 无锡生物技术企业清单
-- [biotech-changzhou.md](list/biotech-changzhou.md) - 常州生物技术企业清单
-- [biotech-kunming.md](list/biotech-kunming.md) - 昆明生物技术企业清单
-- [biotech-shenyang.md](list/biotech-shenyang.md) - 沈阳生物技术企业清单
-- [biotech-harbin.md](list/biotech-harbin.md) - 哈尔滨生物技术企业清单
-- [biotech-lhasa.md](list/biotech-lhasa.md) - 拉萨生物技术企业清单
-- [biotech-hongkong.md](list/biotech-hongkong.md) - 香港生物技术企业清单
-- [biotech-macau.md](list/biotech-macau.md) - 澳门生物技术企业清单
 
 ### 3C电子行业
 - [3c-beijing.md](list/3c-beijing.md) - 北京3C电子企业清单
@@ -194,17 +113,6 @@ list/
 - [3c-guangzhou.md](list/3c-guangzhou.md) - 广州3C电子企业清单
 - [3c-shenzhen.md](list/3c-shenzhen.md) - 深圳3C电子企业清单
 - [3c-hangzhou.md](list/3c-hangzhou.md) - 杭州3C电子企业清单
-- [3c-nanjing.md](list/3c-nanjing.md) - 南京3C电子企业清单
-- [3c-xian.md](list/3c-xian.md) - 西安3C电子企业清单
-- [3c-suzhou.md](list/3c-suzhou.md) - 苏州3C电子企业清单
-- [3c-wuxi.md](list/3c-wuxi.md) - 无锡3C电子企业清单
-- [3c-changzhou.md](list/3c-changzhou.md) - 常州3C电子企业清单
-- [3c-kunming.md](list/3c-kunming.md) - 昆明3C电子企业清单
-- [3c-shenyang.md](list/3c-shenyang.md) - 沈阳3C电子企业清单
-- [3c-harbin.md](list/3c-harbin.md) - 哈尔滨3C电子企业清单
-- [3c-lhasa.md](list/3c-lhasa.md) - 拉萨3C电子企业清单
-- [3c-hongkong.md](list/3c-hongkong.md) - 香港3C电子企业清单
-- [3c-macau.md](list/3c-macau.md) - 澳门3C电子企业清单
 
 ## 不同维度的查找指南
 
@@ -218,20 +126,14 @@ list/
 - **深圳**：查看 [ai-shenzhen.md](list/ai-shenzhen.md)、[bigdata-shenzhen.md](list/bigdata-shenzhen.md) 等
 - **杭州**：查看 [ai-hangzhou.md](list/ai-hangzhou.md)、[bigdata-hangzhou.md](list/bigdata-hangzhou.md) 等
 
-#### 新一线城市
-- **南京**：查看 [ai-nanjing.md](list/ai-nanjing.md)、[bigdata-nanjing.md](list/bigdata-nanjing.md) 等
-- **西安**：查看 [ai-xian.md](list/ai-xian.md)、[bigdata-xian.md](list/bigdata-xian.md) 等
-- **苏州**：查看 [ai-suzhou.md](list/ai-suzhou.md)、[bigdata-suzhou.md](list/bigdata-suzhou.md) 等
-- **无锡**：查看 [ai-wuxi.md](list/ai-wuxi.md)、[bigdata-wuxi.md](list/bigdata-wuxi.md) 等
-- **常州**：查看 [ai-changzhou.md](list/ai-changzhou.md)、[bigdata-changzhou.md](list/bigdata-changzhou.md) 等
-
 #### 其他城市
 - **昆明**：查看 [ai-kunming.md](list/ai-kunming.md)、[bigdata-kunming.md](list/bigdata-kunming.md) 等
 - **沈阳**：查看 [ai-shenyang.md](list/ai-shenyang.md)、[bigdata-shenyang.md](list/bigdata-shenyang.md) 等
 - **哈尔滨**：查看 [ai-harbin.md](list/ai-harbin.md)、[bigdata-harbin.md](list/bigdata-harbin.md) 等
-- **拉萨**：查看 [ai-lhasa.md](list/ai-lhasa.md)、[bigdata-lhasa.md](list/bigdata-lhasa.md) 等
-- **香港**：查看 [ai-hongkong.md](list/ai-hongkong.md)、[bigdata-hongkong.md](list/bigdata-hongkong.md) 等
-- **澳门**：查看 [ai-macau.md](list/ai-macau.md)、[bigdata-macau.md](list/bigdata-macau.md) 等
+
+#### 特别行政区（仅blockchain/cloud行业）
+- **香港**：查看 [blockchain-hongkong.md](list/blockchain-hongkong.md)、[cloud-hongkong.md](list/cloud-hongkong.md)
+- **澳门**：查看 [cloud-macau.md](list/cloud-macau.md)
 
 ### 按行业查找
 如果您想了解某个行业的企业分布，可以直接访问对应行业的文件：
@@ -319,3 +221,214 @@ list/
 
 **更新时间**：2026年1月
 **版本**：v2.0.0
+
+---
+
+## 数据质量检查记录
+
+### 检查说明
+所有文件均需经过事实核查，确保不包含虚假或虚构信息。检查状态说明：
+- ✅ 已检查：数据已核实，信息准确
+- ⚠️ 已修正：发现问题并已修正
+- ❌ 已删除：存在严重虚假信息，已删除
+
+### 已检查文件清单（2026-01-21）
+
+#### cloud系列（16个）✅ 已检查
+| 文件 | 状态 | 备注 |
+|------|------|------|
+| cloud-beijing.md | ✅ 已修正 | 更正为真实北京云计算企业总部 |
+| cloud-shanghai.md | ✅ 已修正 | 更正为真实上海云计算企业 |
+| cloud-shenzhen.md | ✅ 已修正 | 更正为真实深圳云计算企业总部 |
+| cloud-guangzhou.md | ✅ 已修正 | 更正为真实广州本地企业 |
+| cloud-hangzhou.md | ✅ 已修正 | 更正为真实杭州云计算企业总部 |
+| cloud-nanjing.md | ✅ 已修正 | 更正为真实南京本地企业 |
+| cloud-shenyang.md | ✅ 已修正 | 更正为真实沈阳本地企业 |
+| cloud-kunming.md | ✅ 已修正 | 更正为真实昆明本地企业 |
+| cloud-harbin.md | ✅ 已修正 | 更正为真实哈尔滨本地企业 |
+| cloud-hongkong.md | ✅ 已修正 | 更正为真实香港企业 |
+| cloud-changzhou.md | ✅ 已修正 | 更正为真实常州本地企业 |
+| cloud-suzhou.md | ✅ 已检查 | 数据准确 |
+| cloud-wuxi.md | ✅ 已检查 | 数据准确 |
+| cloud-xian.md | ✅ 已检查 | 数据准确 |
+| cloud-lhasa.md | ✅ 已检查 | 数据准确 |
+| cloud-macau.md | ✅ 已检查 | 数据准确 |
+
+#### ai系列（8个保留，7个删除）
+| 文件 | 状态 | 备注 |
+|------|------|------|
+| ai-beijing.md | ✅ 已修正 | 地平线(09660)、第四范式(06682)上市信息已更正 |
+| ai-shanghai.md | ✅ 已检查 | 真实企业数据 |
+| ai-guangzhou.md | ✅ 已检查 | 真实企业数据 |
+| ai-shenzhen.md | ✅ 已修正 | 移除非深圳总部企业，保留大疆、奥比中光、优必选、云天励飞等 |
+| ai-hangzhou.md | ✅ 已修正 | 移除非杭州总部企业，保留海康威视、大华、涂鸦智能、同花顺、恒生等 |
+| ai-kunming.md | ✅ 已检查 | 真实企业（南天信息、昆船智能等） |
+| ai-shenyang.md | ✅ 已检查 | 真实企业（新松机器人等） |
+| ai-harbin.md | ✅ 已修正 | 思哲睿医疗上市状态已更正（IPO注册中） |
+
+#### 深圳新建文件（4个）✅ 已检查
+| 文件 | 状态 | 备注 |
+|------|------|------|
+| ev-shenzhen.md | ✅ 已检查 | 比亚迪、汇川技术等真实深圳企业 |
+| automation-shenzhen.md | ✅ 已检查 | 汇川技术、英威腾等真实深圳企业 |
+| battery-shenzhen.md | ✅ 已检查 | 欣旺达、德赛电池等真实深圳企业 |
+| drone-shenzhen.md | ✅ 已修正 | 大疆总部地址已更正为天空之城 |
+
+#### 深圳特有文件 ✅ 已修正
+| 文件 | 状态 | 备注 |
+|------|------|------|
+| internet-shenzhen.md | ✅ 已修正 | 移除快手、字节跳动、有赞、美图等非深圳企业 |
+| software-shenzhen.md | ✅ 已修正 | 移除有赞、美图、致远互联、用友、恒生等非深圳企业 |
+
+#### 一线城市行业文件（北京/上海/广州/深圳/杭州）⚠️ 已检查
+| 行业 | 状态 | 备注 |
+|------|------|------|
+| bigdata | ✅ 已检查 | 一线城市5个文件，数据相对真实 |
+| blockchain | ✅ 已检查 | 一线城市5个+香港1个 |
+| iot | ✅ 已检查 | 一线城市5个文件，数据相对真实 |
+| smart-manufacturing | ✅ 已检查 | 数据相对真实 |
+| new-energy | ✅ 已修正 | 深圳文件已移除非深圳企业 |
+| new-materials | ✅ 已修正 | 深圳文件已移除非深圳企业 |
+| biotech | ✅ 已修正 | 深圳文件已移除非深圳企业 |
+| 3c | ✅ 已检查 | 一线城市5个文件，数据相对真实 |
+
+#### 新建/修正文件（2026-01-21）
+| 文件 | 状态 | 备注 |
+|------|------|------|
+| 3c-beijing.md | ✅ 新建 | 使用真实北京总部企业数据 |
+| blockchain-hangzhou.md | ✅ 新建 | 杭州是国内区块链产业重镇，收录趣链、蚂蚁链等真实企业 |
+| ai-nanjing.md | ✅ 新建 | 南京AI企业（南瑞科技、亿嘉和等真实企业） |
+| ai-xian.md | ✅ 新建 | 西安航空航天与AI企业（西飞、航天四院等） |
+| biotech-suzhou.md | ✅ 新建 | 苏州生物医药企业（信达生物、百济神州等BioBAY企业） |
+| bigdata-shenzhen.md | ✅ 已修正 | 移除非深圳总部企业，保留腾讯、华为、平安科技等 |
+| blockchain-shenzhen.md | ✅ 已修正 | 移除非深圳总部企业，保留腾讯区块链、微众银行FISCO BCOS等 |
+
+#### 港澳文件
+| 文件 | 状态 | 备注 |
+|------|------|------|
+| blockchain-hongkong.md | ✅ 已修正 | 移除虚假总部信息，保留HashKey、OSL、Animoca等真实香港企业 |
+| cloud-hongkong.md | ✅ 已修正 | 数据已更正 |
+| cloud-macau.md | ✅ 已修正 | 数据已更正 |
+
+#### 深圳新建行业文件（4个）✅ 已检查
+| 文件 | 状态 | 备注 |
+|------|------|------|
+| ev-shenzhen.md | ✅ 已修正 | 比亚迪员工数更正为90万+ |
+| automation-shenzhen.md | ✅ 新建 | 使用真实数据 |
+| battery-shenzhen.md | ✅ 新建 | 使用真实数据 |
+| drone-shenzhen.md | ✅ 已修正 | 大疆总部地址更正为天空之城 |
+
+### 已删除的虚假文件（95个）
+
+#### 拉萨系列（9个）❌ 已删除
+原因：全部企业为虚构的"城市名+知名企业"模式
+- ai-lhasa.md
+- bigdata-lhasa.md
+- blockchain-lhasa.md
+- iot-lhasa.md
+- new-energy-lhasa.md
+- new-materials-lhasa.md
+- biotech-lhasa.md
+- smart-manufacturing-lhasa.md
+- 3c-lhasa.md
+
+#### blockchain系列二三线城市（8个）❌ 已删除
+原因：全部企业为虚构的本地分公司模式
+- blockchain-kunming.md
+- blockchain-shenyang.md
+- blockchain-harbin.md
+- blockchain-xian.md
+- blockchain-nanjing.md
+- blockchain-changzhou.md
+- blockchain-wuxi.md
+- blockchain-suzhou.md
+
+#### ai系列二三线城市及港澳（7个）❌ 已删除
+原因：全部企业为虚构的"城市名+知名企业"模式或总部信息虚假
+- ai-changzhou.md（虚构"常州阿里巴巴"、"常州腾讯"等）
+- ai-wuxi.md（虚构"无锡阿里巴巴"、"无锡腾讯"等）
+- ai-suzhou.md（虚构"苏州阿里巴巴"、"苏州腾讯"等）
+- ai-nanjing.md（虚构"南京阿里巴巴"、"南京腾讯"等）
+- ai-xian.md（虚构"西安阿里巴巴"、"西安腾讯"等）
+- ai-hongkong.md（虚假声称商汤、旷视等公司总部在香港）
+- ai-macau.md（虚假声称商汤、旷视等公司总部在澳门）
+
+#### bigdata系列二三线城市及港澳（7个）❌ 已删除
+原因：全部企业为虚构的"城市名+知名企业"模式
+- bigdata-changzhou.md、bigdata-wuxi.md、bigdata-suzhou.md
+- bigdata-nanjing.md、bigdata-xian.md
+- bigdata-hongkong.md、bigdata-macau.md
+
+#### iot系列二三线城市及港澳（7个）❌ 已删除
+原因：全部企业为虚构的"城市名+知名企业"模式
+- iot-changzhou.md、iot-wuxi.md、iot-suzhou.md
+- iot-nanjing.md、iot-xian.md
+- iot-hongkong.md、iot-macau.md
+
+#### smart-manufacturing系列二三线城市及港澳（7个）❌ 已删除
+原因：全部企业为虚构的"城市名+知名企业"模式
+- smart-manufacturing-changzhou.md、smart-manufacturing-wuxi.md、smart-manufacturing-suzhou.md
+- smart-manufacturing-nanjing.md、smart-manufacturing-xian.md
+- smart-manufacturing-hongkong.md、smart-manufacturing-macau.md
+
+#### new-energy系列二三线城市及港澳（7个）❌ 已删除
+原因：全部企业为虚构的"城市名+知名企业"模式
+- new-energy-changzhou.md、new-energy-wuxi.md、new-energy-suzhou.md
+- new-energy-nanjing.md、new-energy-xian.md
+- new-energy-hongkong.md、new-energy-macau.md
+
+#### new-materials系列二三线城市及港澳（7个）❌ 已删除
+原因：全部企业为虚构的"城市名+知名企业"模式
+- new-materials-changzhou.md、new-materials-wuxi.md、new-materials-suzhou.md
+- new-materials-nanjing.md、new-materials-xian.md
+- new-materials-hongkong.md、new-materials-macau.md
+
+#### biotech系列二三线城市及港澳（7个）❌ 已删除
+原因：全部企业为虚构的"城市名+知名企业"模式
+- biotech-changzhou.md、biotech-wuxi.md、biotech-suzhou.md
+- biotech-nanjing.md、biotech-xian.md
+- biotech-hongkong.md、biotech-macau.md
+
+#### 3c系列二三线城市及港澳（7个）❌ 已删除
+原因：全部企业为虚构的"城市名+知名企业"模式
+- 3c-changzhou.md、3c-wuxi.md、3c-suzhou.md
+- 3c-nanjing.md、3c-xian.md
+- 3c-hongkong.md、3c-macau.md
+
+#### 昆明/沈阳/哈尔滨非ai系列（21个）❌ 已删除
+原因：全部企业为虚构的"城市名+知名企业"模式（如"昆明阿里巴巴"、"沈阳腾讯"等）
+- bigdata-kunming.md、bigdata-shenyang.md、bigdata-harbin.md
+- iot-kunming.md、iot-shenyang.md、iot-harbin.md
+- smart-manufacturing-kunming.md、smart-manufacturing-shenyang.md、smart-manufacturing-harbin.md
+- new-energy-kunming.md、new-energy-shenyang.md、new-energy-harbin.md
+- new-materials-kunming.md、new-materials-shenyang.md、new-materials-harbin.md
+- biotech-kunming.md、biotech-shenyang.md、biotech-harbin.md
+- 3c-kunming.md、3c-shenyang.md、3c-harbin.md
+
+#### blockchain澳门（1个）❌ 已删除
+原因：全部企业为虚构的"澳门+知名企业"模式
+- blockchain-macau.md（虚构"澳门比特大陆"、"澳门火币"等）
+
+### 已完成的修正工作
+
+#### 深圳系列文件（已全部修正）
+- **ai-shenzhen.md**：移除商汤、云从、寒武纪、地平线、依图、第四范式等非深圳企业，保留大疆、奥比中光、优必选、云天励飞、普渡、元戎启行等真实深圳AI企业
+- **internet-shenzhen.md**：移除快手、字节跳动、有赞、美图等非深圳企业，保留腾讯、大疆、迅雷、货拉拉、微众银行等
+- **software-shenzhen.md**：移除有赞、美图、致远互联、用友、恒生等非深圳企业，保留金蝶、万兴科技、迅雷、蓝凌等
+- **new-energy-shenzhen.md**：移除宁德时代、阳光电源、金风科技、蔚来、小鹏、理想等非深圳企业，保留比亚迪、欣旺达、贝特瑞、格林美、科达利等
+- **new-materials-shenzhen.md**：移除金发科技、三环集团、风华高科等非深圳企业，保留贝特瑞、格林美、沃特股份、长盈精密、顺络电子等
+- **biotech-shenzhen.md**：移除贝瑞基因、丽珠医药、科兴生物、沃森生物等非深圳企业，保留华大基因、华大智造、海普瑞、信立泰、迈瑞医疗、康泰生物等
+
+#### 杭州系列文件（已修正）
+- **ai-hangzhou.md**：移除云从、依图、旷视、商汤等非杭州企业，保留海康威视、大华、涂鸦智能、同花顺、恒生电子等真实杭州AI企业
+
+### 待检查文件
+以下文件尚未完成事实核查，可能存在虚假信息：
+- 一线城市（北京/上海/深圳/广州/杭州）的部分行业文件
+- 二三线城市（南京/西安/苏州/无锡/常州/昆明/沈阳/哈尔滨/香港/澳门）的大部分行业文件
+
+### 虚假信息特征（供排查参考）
+1. 企业名称为"城市名+知名企业"格式（如"拉萨阿里巴巴"）
+2. 所有企业规模统一为"1000-5000人"
+3. 所有办公地址在同一条路/同一个区
+4. 员工口碑统一为"技术氛围浓厚，创新能力强"
